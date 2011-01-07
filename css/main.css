@@ -1,0 +1,58 @@
+.body, html{
+	padding:0px;
+	margin:0px;
+	font-family:'Helvetica', Arial, sans-serif;
+	font-size:12px;
+}
+
+#wrapper{
+	position:absolute;
+	width:650px;
+	display:block;
+}
+
+#slider{
+	float:left;
+	position:relative;
+	left:30px;
+}
+
+#sliderInner li{
+	list-style:none;
+	float:left;
+	margin-right:10px;
+}
+
+#sliderPrevBtn{
+	position:relative;
+	top:130px;
+	float:left;
+}
+
+#sliderNextBtn{
+	position:relative;
+	float:left;
+	top:130px;
+	margin-left:55px;
+}
+
+#numberButtons{
+	position:relative;
+	float:right;
+	margin-top:10px;
+	margin-right:50px;
+}
+
+#numberButtons a{
+  color:#000;
+  text-decoration:none;
+}
+
+#numberButtons a:hover{
+  color:#FF0000;
+  text-decoration:none;
+}
+
+#numberButtons a.numberSelected{
+  color:#FF0000;
+}
