@@ -1,9 +1,9 @@
 /*
  * 	Simple Image Slider 1.0 - jQuery plugin
- *	written by Hello Monday	
- *	http://hellomonday.com
+ *	written by Mike Fey	
+ *	http://mikefey.com
  *
- *	Copyright (c) 2011 Hello Monday (hellomonday.com)
+ *	Copyright (c) 2011 Mike Fey (mikefey.com)
  *
  *	Built for jQuery library
  *	http://jquery.com
