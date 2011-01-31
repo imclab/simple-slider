@@ -12,7 +12,7 @@ jQuery UI 1.8.5
 jQuery Address 1.1 (optional, if you want each image to have a unique url)
 
 
-MARKKUP
+MARKUP
 
      <div id="wrapper">
           <div id="sliderPrevBtn"><img src="images/btn_prev.gif" /></div>
