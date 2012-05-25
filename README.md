@@ -37,7 +37,7 @@ jQuery Address 1.1 (optional, if you want each image to have a unique url)
 $('#slider').simpleSlider({fade: true,
 	useAddress: true,
 	numberButtons: true
-	});
+});
 ```
 
 
